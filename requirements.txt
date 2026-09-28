@@ -1,1 +1,1 @@
-# Il progetto usa solo la Standard Library di Python. Nessuna dipendenza esterna necessaria.
+# No external dependencies required. Built with pure Python 3.11+ standard library.
